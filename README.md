@@ -1,2 +1,2 @@
 # Clustering-K-means
-Clustering using K means algorithm in artificial intelligence
+Clustering implemented in python using K means algorithm in artificial intelligence.
